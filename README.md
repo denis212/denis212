@@ -5,6 +5,12 @@
 - 🔭 I’m currently working on Bhinneka.com
 - 🌱 I’m currently learning ReactJS, Typescript, NextJs
 
+<p align="left">
+<a href="https://linkedin.com/in/setiantodenis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="setiantodenis" height="30" width="30" /></a>
+<a href="https://instagram.com/setiantodenis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="setiantodenis" height="30" width="30" /></a>
+<a href="https://medium.com/@denissetianto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@denissetianto" height="30" width="30" /></a>
+</p>
+
 <!--
 **denis212/denis212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
