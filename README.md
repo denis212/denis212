@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on Bhinneka.com
 - 🌱 I’m currently learning ReactJS, Typescript, NextJs
+- ⚡ Fun fact: gain 88 kg when pandemic :')
 
 <p align="center">
 <a href="https://linkedin.com/in/setiantodenis" target="__blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="setiantodenis" height="30" width="30" /></a>
