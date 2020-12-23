@@ -3,7 +3,7 @@
 📫 How to reach me: denis.setianto@gmail.com
 
 - 🔭 I’m currently working on Bhinneka.com
-- 🌱 I’m currently learning ReactJS, Typescript, NextJs
+- 🌱 I’m currently using ReactJS, Typescript, NextJs
 - ⚡ Fun fact: gain 88 kg when pandemic :')
 
 <p align="center">
